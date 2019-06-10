@@ -1,0 +1,13 @@
+body{
+	background-image: url(../img/background.jpg) ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#para1{              /*id选择器适用于指定特定元素样式*/
+	text-align: center;
+	color: blueviolet;
+	}
+p.para2{           /*class选择器可指定一组元素样式，并且可以指定特定范围*/
+	text-align: right;
+	color: #8A2BE2;
+}
